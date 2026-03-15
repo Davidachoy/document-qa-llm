@@ -3,3 +3,5 @@ openai
 pymupdf
 python-dotenv
 tiktoken
+transformers
+torch
